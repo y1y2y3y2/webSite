@@ -1,0 +1,44 @@
+/*自定義CSS*/
+.top-Start{
+    font-family: cursive;
+    text-align: center;
+    
+    text-decoration-color: burlywood;
+    vertical-align: middle;
+    display: table-cell;
+    
+    
+}
+.top-Start h1{
+    margin: 0;
+    padding: 0;
+    font-size:3.0em;
+    font-weight: 700;
+}
+.services {
+    background-color: darkorange;
+    padding: 50px 0;
+}
+.call-to-action {
+    background-color: darkorange;
+     padding: 25px ;
+}
+#head{
+    background-color: darkorange;
+    padding: 25px ;
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    
+     
+}
+#abc{
+   font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+#d{
+   font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
